@@ -1,9 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 
 const Calendar = () => {
-  const [selectedMonth, setSelectedMonth] = useState(new Date().getMonth());
-  const [selectedYear, setSelectedYear] = useState(new Date().getFullYear());
-
   // Events will be added when fixtures are available
   const events = [];
 
