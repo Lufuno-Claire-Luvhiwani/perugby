@@ -18,7 +18,7 @@ const TechnicalTeam = () => {
       initials: 'HV'
     },
     {
-      name: 'Abraham `Bobo`  Rwodzi',
+      name: 'Abraham `Bobo` Rwodzi',
       role: 'Cubs Coach',
       initials: 'AR',
       hasPhilosophy: true

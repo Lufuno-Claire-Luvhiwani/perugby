@@ -5,7 +5,15 @@ const Teams = () => {
 
   const teams = [
     {
-      name: 'Tigers Seconds',
+      name: 'Tigers',
+      category: 'Senior',
+      description: 'First XV',
+      players: [
+        // Add players here with: { name: '', dateOfBirth: '', position: '' }
+      ]
+    },
+    {
+      name: 'Seconds',
       category: 'Senior',
       description: 'Second XV',
       players: [
@@ -21,7 +29,15 @@ const Teams = () => {
       ]
     },
     {
-      name: 'U16 Super Second',
+      name: 'Cubs',
+      category: 'Under 16',
+      description: 'Cubs Team',
+      players: [
+        // Add players here with: { name: '', dateOfBirth: '', position: '' }
+      ]
+    },
+    {
+      name: 'Super Seconds',
       category: 'Under 16',
       description: 'Super Second XV',
       players: [
