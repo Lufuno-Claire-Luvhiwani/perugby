@@ -13,6 +13,7 @@ import Rivalry from './components/Rivalry';
 import History from './components/History';
 import Alumni from './components/Alumni';
 import TechnicalTeam from './components/TechnicalTeam';
+import Teams from './components/Teams';
 import Gallery from './components/Gallery';
 import Calendar from './components/Calendar';
 import Contact from './components/Contact';
@@ -39,6 +40,7 @@ function App() {
           <History />
           <Alumni />
           <TechnicalTeam />
+          <Teams />
           <Gallery />
           <Calendar />
           <Contact />

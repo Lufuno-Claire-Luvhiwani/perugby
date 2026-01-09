@@ -54,6 +54,7 @@ const Navbar = () => {
           <li><a href="#history" onClick={(e) => handleNavClick(e, '#history')}>History</a></li>
           <li><a href="#alumni" onClick={(e) => handleNavClick(e, '#alumni')}>Alumni</a></li>
           <li><a href="#technical-team" onClick={(e) => handleNavClick(e, '#technical-team')}>Technical Team</a></li>
+          <li><a href="#teams" onClick={(e) => handleNavClick(e, '#teams')}>Teams</a></li>
           <li><a href="#calendar" onClick={(e) => handleNavClick(e, '#calendar')}>Calendar</a></li>
           <li><a href="#contact" onClick={(e) => handleNavClick(e, '#contact')}>Contact</a></li>
           <li><a href="#legacy" onClick={(e) => handleNavClick(e, '#legacy')}>Legacy</a></li>

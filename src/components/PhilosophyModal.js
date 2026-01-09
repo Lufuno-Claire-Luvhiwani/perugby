@@ -56,3 +56,4 @@ const PhilosophyModal = ({ coach, isOpen, onClose }) => {
 
 export default PhilosophyModal;
 
+

@@ -17,3 +17,4 @@ To add a white background to the favicon:
 
 The current favicon uses `/logo.png`. To have a white background, the image file itself needs to include it.
 
+
